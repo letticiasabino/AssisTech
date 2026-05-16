@@ -1,5 +1,5 @@
 
-# TechFix Landing Page
+# AssisTech Landing Page
 
 Landing page moderna para assistência técnica desenvolvida com:
 - React
